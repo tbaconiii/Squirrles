@@ -1,5 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Automated Issue Template
-    url: https:/github.com/tbaconiii/issues/new?assignees=tbaconiii&labels=&template=&title=&projects=Home Tasks
-    about: For creating new Squirel Issues with the blah Issue Template modified to automatically assign to myself in the blah Project.
